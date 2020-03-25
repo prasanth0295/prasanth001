@@ -1,5 +1,6 @@
 public class PrasanthMain{
 public static void main(String[] args){
-System.out.println("From the class PrasanthMain);
+System.out.println("From the class PrasanthMain - 1);
+System.out.println("From the class PrasanthMain - 2);
 }
 }
